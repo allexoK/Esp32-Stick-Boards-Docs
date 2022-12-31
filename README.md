@@ -37,4 +37,3 @@ There is no galvanic isolation, so the board should not be connected to POE whil
 
 ## Schematics
 Schematics can be found in HW/x/Vx/schematics
-# Esp32-Stick-Boards-Docs
