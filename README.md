@@ -1,6 +1,6 @@
 # ESP32-Stick
 ## Introduction:
-ESP32-Stick is a line of low-cost development boards for ESP32 with Ethernet support. The boards use LAN8720A chip for ethernet and CH340G USB-UART converter for communication with PC and programming. ESP32-Stick-PoE-A provides active Power-Over-Ethernet support, ESP32-Stick-PoE-P provides passive Power-Over-Ethernet support(5-57V).
+ESP32-Stick is a line of low-cost development boards for ESP32 with Ethernet support. The boards use LAN8720A chip for ethernet and CH340G USB-UART converter for communication with PC and programming. ESP32-Stick-PoE-A provides active Power-Over-Ethernet support, ESP32-Stick-PoE-P provides passive Power-Over-Ethernet support(5-57V).Programming is performed via USB connector.
 
 ## Features:
 
