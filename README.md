@@ -15,7 +15,7 @@ ESP32-Stick is a line of low-cost development boards for ESP32 with Ethernet sup
 - Reset button and User button(GPIO0).
 - Accepts power through:
   - USB
-  - External source (1.8V-5V)
+  - External source (3.3V-5V)
   - Passive POE(PoE-P)
   - Active POE(PoE-A)
 
