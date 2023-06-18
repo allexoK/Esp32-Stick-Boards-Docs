@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-18T13:51:04.039Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="81-WEpZOsCPFwalc6xDA" version="21.3.8" type="device">
+<mxfile host="app.diagrams.net" modified="2023-06-18T14:13:17.997Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="o39eqZBlJovXpR3rGYYb" version="21.3.8" type="device">
   <diagram id="1cdYfaxTsIgGYpxO4O4i" name="Page-1">
     <mxGraphModel dx="1959" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -427,8 +427,8 @@
         <mxCell id="FPyzdAFVNhbkyVy7kzHq-50" value="Board specific pins(LED, button)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65.12" y="238.04" width="224.88" height="14.57" as="geometry" />
         </mxCell>
-        <mxCell id="FPyzdAFVNhbkyVy7kzHq-51" value="*I2C can be mapped to any pins, don&#39;t forget pullups" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="620" width="240" height="30" as="geometry" />
+        <mxCell id="FPyzdAFVNhbkyVy7kzHq-51" value="*I2C can be mapped to any pins, don&#39;t forget pullups, UART can be assigned to any pins, use Serial.begin(115200,SERIAL_8N1,15,13) to set GPIO15 as RX, and GPIO13 as TX" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="620" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FPyzdAFVNhbkyVy7kzHq-52" value="" style="text;html=1;strokeColor=#6c8ebf;fillColor=#0000FF;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="10" y="252.61" width="55.117999999999995" height="22.07" as="geometry" />
