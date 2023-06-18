@@ -21,9 +21,9 @@ ESP32-Stick is a line of low-cost development boards for ESP32 with Ethernet sup
 
 
 ## Pinout and dimensions
-![Esp32-Stick-Eth pinout](/pictures/Esp32-Stick-Eth/pinout_ver1.png)
-![Esp32-Stick-PoE-P pinout](/pictures/Esp32-Stick-PoE-P/pinout_ver1.png)
-![Esp32-Stick-PoE-A pinout](/pictures/Esp32-Stick-PoE-A/pinout_ver1.png)
+![Esp32-Stick-Eth pinout](/pictures/Esp32-Stick-Eth/pinout_ver2.png)
+![Esp32-Stick-PoE-P pinout](/pictures/Esp32-Stick-PoE-P/pinout_ver2.png)
+![Esp32-Stick-PoE-A pinout](/pictures/Esp32-Stick-PoE-A/pinout_ver2.png)
 
 Dimensions are the same:
 ![Dimensions](/HW/Esp32-Stick-PoE-P/V1/PCB_ESP32-POE-P_ver.1_2022-12-31_dimensions.png)
