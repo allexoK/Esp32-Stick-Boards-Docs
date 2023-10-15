@@ -37,3 +37,19 @@ There is no galvanic isolation, so the board should not be connected to POE whil
 
 ## Schematics
 Schematics can be found in HW/x/Vx/schematics
+
+## On PoE compatibility
+- Esp32-Stick-PoE-A was tested to work with TR60A-POE-L(48V) from Microelectronics tech INC. and POE15F(48V) from Tenda.
+- Esp32-Stick-PoE-P was tested to work with TR60A-POE-L(48V), POE15F(48V) , UBI-POE-24-1(24V), GP-B240-100(24V),  GP-240-050(24V), GP-A240-050,  APOE24V-1, UBI-POE-24-5
+- One user reported problems with USW-Pro-24-POE (400W) switch. Perhaps some PoE incompatibility issues.
+
+## Troubleshooting Esp32-Stick-Boards
+1. I am powering Esp32-Stick-PoE-A with PoE adapter and the power led is off:
+- Are you sure you are using 48V PoE adapter?
+- Are you using type B power adapter?(The power must be supplied via pins 4,5 and 7,8)?
+- Have you tried different adapter?
+- Try using shorter Ethernet cable, did it help?
+
+2. I have a network connection problems:
+- Try using shorter Ethernet cable, did it help?
+
